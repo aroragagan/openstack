@@ -1,4 +1,4 @@
 openstack
 =========
 
-Openstack setup and docs
+Openstack setup and docs will be updated soon
